@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+reports/*
+!reports/.gitkeep
+uploads/
+*.apk
+*.aab
+*.jks
+*.keystore
